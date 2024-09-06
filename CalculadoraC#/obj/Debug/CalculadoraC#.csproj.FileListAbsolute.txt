@@ -1,0 +1,7 @@
+C:\Users\guilherme.anthony\source\repos\CalculadoraC#\CalculadoraC#\bin\Debug\CalculadoraC#.exe.config
+C:\Users\guilherme.anthony\source\repos\CalculadoraC#\CalculadoraC#\bin\Debug\CalculadoraC#.exe
+C:\Users\guilherme.anthony\source\repos\CalculadoraC#\CalculadoraC#\bin\Debug\CalculadoraC#.pdb
+C:\Users\guilherme.anthony\source\repos\CalculadoraC#\CalculadoraC#\obj\Debug\CalculadoraC#.csproj.AssemblyReference.cache
+C:\Users\guilherme.anthony\source\repos\CalculadoraC#\CalculadoraC#\obj\Debug\CalculadoraC#.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.anthony\source\repos\CalculadoraC#\CalculadoraC#\obj\Debug\CalculadoraC#.exe
+C:\Users\guilherme.anthony\source\repos\CalculadoraC#\CalculadoraC#\obj\Debug\CalculadoraC#.pdb
